@@ -1186,7 +1186,7 @@ button:hover, .btn:hover {
   border: 1px solid var(--color-primary);
 }
 .btn-primary::before {
-  position: absolute;
+  /* position: absolute; */
   top: 0;
   left: 0;
   width: 100%;
@@ -4645,7 +4645,7 @@ body.mobile-menu-active {
 .gallery-area .slider-item .icon {
   --size: 50px;
   position: absolute;
-  top: 0;
+  top: 38px;
   bottom: 0;
   left: 0;
   right: 0;
