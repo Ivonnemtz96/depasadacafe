@@ -2,12 +2,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="KreativDev">
 
     <!-- Title -->
     <title>De Pasada Café</title>
     <!-- Favicon -->
-    <link rel="shortcut icon" href="/assets/images/logo/fav.png" type="image/x-icon">
+    <link rel="shortcut icon" href="/assets/images/testimonial.png" type="image/x-icon">
 
     <!-- Google font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
