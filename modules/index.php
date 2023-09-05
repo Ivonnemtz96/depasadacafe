@@ -112,7 +112,7 @@
 <!-- About-area end -->
 
 <!-- Category-area start -->
-<section class="category-area category-3 bg-primary pt-120 pb-95">
+<section hidden class="category-area category-3 bg-primary pt-120 pb-95">
     <div class="container">
         <div class="row">
             <div class="col-12">

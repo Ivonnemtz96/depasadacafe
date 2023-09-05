@@ -5,7 +5,7 @@
     <meta name="author" content="KreativDev">
 
     <!-- Title -->
-    <title>Treats - Fast Food & Restaurant HTML Template</title>
+    <title>De Pasada Café</title>
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/images/logo/fav.png" type="image/x-icon">
 
