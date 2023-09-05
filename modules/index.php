@@ -23,17 +23,17 @@
             </div>
             <div class="col-lg-6" data-aos="fade-up">
                 <div class="banner-image mb-40 parallax-img" data-speed="0.1" data-revert="true">
-                    <img class="lazyload blur-up" src="assets/images/placeholder.png"
-                        data-src="assets/images/banner/hero-banner-2.png" alt="Banner Image">
+                    <img class="lazyload blur-up" src="/assets/images/placeholder.png"
+                        data-src="/assets/images/banner/hero-banner-2.png" alt="Banner Image">
                 </div>
             </div>
         </div>
     </div>
-    <div class="bg-img" data-bg-image="assets/images/banner/hero-banner-bg-3.jpg"></div>
+    <div class="bg-img" data-bg-image="/assets/images/banner/hero-banner-bg-3.jpg"></div>
     <!-- Bg shape -->
     <div class="bg-shape h-auto">
-        <img class="lazyload" src="assets/images/placeholder.png"
-            data-src="assets/images/banner/hero-bottom-shape-1.png" alt="Bg Shape">
+        <img class="lazyload" src="/assets/images/placeholder.png"
+            data-src="/assets/images/banner/hero-bottom-shape-1.png" alt="Bg Shape">
     </div>
 </section>
 <!-- Home-area end -->
@@ -45,8 +45,8 @@
         <div class="row align-items-center gx-xl-5">
             <div class="col-lg-6" data-aos="fade-up">
                 <div class="image mb-40 parallax-img img-left" data-speed="0.1" data-revert="true">
-                    <img class="lazyload blur-up" src="assets/images/placeholder.png"
-                        data-src="assets/images/about-4.png" alt="Image">
+                    <img class="lazyload blur-up" src="/assets/images/placeholder.png"
+                        data-src="/assets/images/about-4.png" alt="Image">
                 </div>
             </div>
             <div class="col-lg-6" data-aos="fade-up">
@@ -189,8 +189,8 @@
                                     <div class="client-info d-flex align-items-center">
                                         <div class="client-img">
                                             <div class="lazy-container radius-sm ratio ratio-1-1">
-                                                <img class="lazyload" src="assets/images/placeholder.png"
-                                                    data-src="assets/images/testimonial.png" alt="Person Image">
+                                                <img class="lazyload" src="/assets/images/placeholder.png"
+                                                    data-src="/assets/images/testimonial.png" alt="Person Image">
                                             </div>
                                         </div>
                                         <div class="content">
@@ -219,8 +219,8 @@
                                     <div class="client-info d-flex align-items-center">
                                         <div class="client-img">
                                             <div class="lazy-container radius-sm ratio ratio-1-1">
-                                                <img class="lazyload" src="assets/images/placeholder.png"
-                                                    data-src="assets/images/testimonial.png" alt="Person Image">
+                                                <img class="lazyload" src="/assets/images/placeholder.png"
+                                                    data-src="/assets/images/testimonial.png" alt="Person Image">
                                             </div>
                                         </div>
                                         <div class="content">
@@ -247,8 +247,8 @@
                                     <div class="client-info d-flex align-items-center">
                                         <div class="client-img">
                                             <div class="lazy-container radius-sm ratio ratio-1-1">
-                                                <img class="lazyload" src="assets/images/placeholder.png"
-                                                    data-src="assets/images/testimonial.png" alt="Person Image">
+                                                <img class="lazyload" src="/assets/images/placeholder.png"
+                                                    data-src="/assets/images/testimonial.png" alt="Person Image">
                                             </div>
                                         </div>
                                         <div class="content">
@@ -279,8 +279,8 @@
             <div class="col-xl-4 d-none d-xl-block">
                 <div class="fluid-right">
                     <div class="image mb-40" data-aos="fade-left">
-                        <img class="lazyload blur-up" src="assets/images/placeholder.png"
-                            data-src="assets/images/testimonial-img-2.png?=3" alt="Image">
+                        <img class="lazyload blur-up" src="/assets/images/placeholder.png"
+                            data-src="/assets/images/testimonial-img-2.png?=3" alt="Image">
                     </div>
                 </div>
             </div>
@@ -308,77 +308,77 @@
                     <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
                         target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
-                            <img class="lazyload" src="assets/images/placeholder.png"
-                                data-src="assets/images/gallery/gallery-11.jpg" alt="Image">
+                            <img class="lazyload" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/gallery/gallery-11.jpg" alt="Image">
                         </div>
-                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="assets/images/placeholder.png"
-                                data-src="assets/images/fb.png" alt="Image"></div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/fb.png" alt="Image"></div>
                     </a>
                 </div>
                 <div class="swiper-slide">
                     <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
                         target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
-                            <img class="lazyload" src="assets/images/placeholder.png"
-                                data-src="assets/images/gallery/gallery-12.jpg" alt="Image">
+                            <img class="lazyload" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/gallery/gallery-12.jpg" alt="Image">
                         </div>
-                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="assets/images/placeholder.png"
-                                data-src="assets/images/fb.png" alt="Image"></div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/fb.png" alt="Image"></div>
                     </a>
                 </div>
                 <div class="swiper-slide">
                     <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
                         target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
-                            <img class="lazyload" src="assets/images/placeholder.png"
-                                data-src="assets/images/gallery/gallery-13.jpg" alt="Image">
+                            <img class="lazyload" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/gallery/gallery-13.jpg" alt="Image">
                         </div>
-                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="assets/images/placeholder.png"
-                                data-src="assets/images/fb.png" alt="Image"></div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/fb.png" alt="Image"></div>
                     </a>
                 </div>
                 <div class="swiper-slide">
                     <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
                         target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
-                            <img class="lazyload" src="assets/images/placeholder.png"
-                                data-src="assets/images/gallery/gallery-17.jpg" alt="Image">
+                            <img class="lazyload" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/gallery/gallery-17.jpg" alt="Image">
                         </div>
-                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="assets/images/placeholder.png"
-                                data-src="assets/images/fb.png" alt="Image"></div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/fb.png" alt="Image"></div>
                     </a>
                 </div>
                 <div class="swiper-slide">
                     <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
                         target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
-                            <img class="lazyload" src="assets/images/placeholder.png"
-                                data-src="assets/images/gallery/gallery-15.jpg" alt="Image">
+                            <img class="lazyload" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/gallery/gallery-15.jpg" alt="Image">
                         </div>
-                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="assets/images/placeholder.png"
-                                data-src="assets/images/fb.png" alt="Image"></div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/fb.png" alt="Image"></div>
                     </a>
                 </div>
                 <div class="swiper-slide">
                     <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
                         target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
-                            <img class="lazyload" src="assets/images/placeholder.png"
-                                data-src="assets/images/gallery/gallery-16.jpg" alt="Image">
+                            <img class="lazyload" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/gallery/gallery-16.jpg" alt="Image">
                         </div>
-                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="assets/images/placeholder.png"
-                                data-src="assets/images/fb.png" alt="Image"></div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/fb.png" alt="Image"></div>
                     </a>
                 </div>
                 <div class="swiper-slide">
                     <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
                         target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
-                            <img class="lazyload" src="assets/images/placeholder.png"
-                                data-src="assets/images/gallery/gallery-15.jpg" alt="Image">
+                            <img class="lazyload" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/gallery/gallery-15.jpg" alt="Image">
                         </div>
-                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="assets/images/placeholder.png"
-                                data-src="assets/images/fb.png" alt="Image"></div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/fb.png" alt="Image"></div>
                     </a>
                 </div>
             </div>

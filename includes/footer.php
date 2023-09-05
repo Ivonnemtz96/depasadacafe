@@ -1,5 +1,5 @@
 <!-- Footer-area start -->
-<footer class="footer-area bg-img bg-cover" data-bg-image="assets/images/footer-bg-3.jpg">
+<footer class="footer-area bg-img bg-cover" data-bg-image="/assets/images/footer-bg-3.jpg">
     <div class="overlay opacity-90"></div>
     <div class="container">
         <div class="copy-right-area ptb-30">

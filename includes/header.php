@@ -13,7 +13,7 @@
             <!-- Mobile Logo -->
             <div class="logo">
                 <a href="index.html" target="_self" title="Treats">
-                    <img class="lazyload" src="assets/images/placeholder.png" style="width: 15rem;" data-src="assets/images/logo.png"
+                    <img class="lazyload" src="/assets/images/placeholder.png" style="width: 15rem;" data-src="/assets/images/logo.png"
                         alt="Treats logo">
                 </a>
             </div>
@@ -31,16 +31,20 @@
             <div class="container">
                 <div
                     class="header-top-items mobile-item d-flex flex-wrap justify-content-between gap-15 align-items-center">
-                    <a href="tel:6241052680" class="icon-start" target="_self" title="Call Us">
+                    <a href="tel:6241052680" class="icon-start" target="_blank" title="Llámanos">
                         <span>
                             Llámanos:
                         </span>
                         624 105 2680
                     </a>
+                    <a href="mailto:info@depasadacafe.com" class="icon-start" target="_blank" title="Correo">
+                        <span>
+                            Correo:
+                        </span>
+                        info@depasadacafe.com
+                    </a>
                     <div class="social-link icon-only">
-                        <a class="rounded-pill" href="https://www.instagram.com/" target="_blank" title="instagram"><i
-                                class="fab fa-instagram"></i></a>
-                        <a class="rounded-pill" href="https://www.youtube.com/" target="_blank" title="youtube"><i
+                        <a class="rounded-pill" href="https://www.facebook.com/DePasadaCafe?locale=es_LA" target="_blank" title="facebook"><i
                                 class="fab fa-facebook"></i></a>
                     </div>
                 </div>
@@ -51,8 +55,8 @@
                 <nav class="navbar navbar-expand-lg">
                     <!-- Logo -->
                     <a class="navbar-brand" href="index.html" target="_self" title="Treats">
-                        <img class="lazyload" src="assets/images/placeholder.png"
-                            data-src="assets/images/logo.png" alt="Treats logo" style="width: 15rem;">
+                        <img class="lazyload" src="/assets/images/placeholder.png"
+                            data-src="/assets/images/logo.png" alt="Treats logo" style="width: 15rem;">
                     </a>
                     <!-- Navigation items -->
                     <div class="collapse navbar-collapse">
@@ -69,10 +73,8 @@
                             <li class="nav-item">
                                 <a class="nav-link" style="color: #fff;" href="/#contacto">Contacto</a>
                             </li>
-
                         </ul>
                     </div>
-                    
                 </nav>
             </div>
         </div>
