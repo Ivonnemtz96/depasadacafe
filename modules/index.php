@@ -116,7 +116,7 @@
 
 
 <!-- Product-area start -->
-<section class="product-area product-3 pt-100 pb-75">
+<section class="product-area product-3 pt-100 pb-75" id="menu">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -154,10 +154,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div class="cta-btn text-center mt-15 mb-25">
-                    <a href="shop.html" class="btn btn-lg btn-primary radius-sm" title="More Items" target="_self">More
-                        Items</a>
-                </div> -->
+              
             </div>
         </div>
     </div>
@@ -193,7 +190,7 @@
                                         <div class="client-img">
                                             <div class="lazy-container radius-sm ratio ratio-1-1">
                                                 <img class="lazyload" src="assets/images/placeholder.png"
-                                                    data-src="assets/images/avatar-1.jpg" alt="Person Image">
+                                                    data-src="assets/images/testimonial.png" alt="Person Image">
                                             </div>
                                         </div>
                                         <div class="content">
@@ -223,7 +220,7 @@
                                         <div class="client-img">
                                             <div class="lazy-container radius-sm ratio ratio-1-1">
                                                 <img class="lazyload" src="assets/images/placeholder.png"
-                                                    data-src="assets/images/avatar-2.jpg" alt="Person Image">
+                                                    data-src="assets/images/testimonial.png" alt="Person Image">
                                             </div>
                                         </div>
                                         <div class="content">
@@ -234,7 +231,6 @@
                                         <div class="rate">
                                             <div class="rating-icon"></div>
                                         </div>
-                                        <div class="ratings-total">5 star of 20 review</div>
                                     </div>
                                 </div>
                                 <div class="quote">
@@ -252,7 +248,7 @@
                                         <div class="client-img">
                                             <div class="lazy-container radius-sm ratio ratio-1-1">
                                                 <img class="lazyload" src="assets/images/placeholder.png"
-                                                    data-src="assets/images/avatar-3.jpg" alt="Person Image">
+                                                    data-src="assets/images/testimonial.png" alt="Person Image">
                                             </div>
                                         </div>
                                         <div class="content">
@@ -283,7 +279,7 @@
             <div class="col-xl-4 d-none d-xl-block">
                 <div class="fluid-right">
                     <div class="image mb-40" data-aos="fade-left">
-                        <img  class="lazyload blur-up" src="assets/images/placeholder.png"
+                        <img class="lazyload blur-up" src="assets/images/placeholder.png"
                             data-src="assets/images/testimonial-img-2.png?=3" alt="Image">
                     </div>
                 </div>
@@ -294,12 +290,23 @@
 <!-- Testimonial-area end -->
 
 <!-- Gallery-area start -->
+<div id="galeria" style="margin-bottom:6rem;"></div>
+<div class="container" >
+    <div class="section-title row mb-50 justify-content-between align-items-center" data-aos="fade-up">
+        <div class="col-lg-12 text-center">
+            <h2 class="title">
+                Enamórate de nuestras bebidas
+            </h2>
+        </div>
+    </div>
+</div>
 <div class="gallery-area" data-aos="fade-up">
     <div class="container">
         <div class="swiper gallery-slider">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image" target="_blank">
+                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
+                        target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
                             <img class="lazyload" src="assets/images/placeholder.png"
                                 data-src="assets/images/gallery/gallery-11.jpg" alt="Image">
@@ -309,7 +316,8 @@
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image" target="_blank">
+                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
+                        target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
                             <img class="lazyload" src="assets/images/placeholder.png"
                                 data-src="assets/images/gallery/gallery-12.jpg" alt="Image">
@@ -319,7 +327,8 @@
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image" target="_blank">
+                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
+                        target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
                             <img class="lazyload" src="assets/images/placeholder.png"
                                 data-src="assets/images/gallery/gallery-13.jpg" alt="Image">
@@ -329,7 +338,8 @@
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image" target="_blank">
+                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
+                        target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
                             <img class="lazyload" src="assets/images/placeholder.png"
                                 data-src="assets/images/gallery/gallery-17.jpg" alt="Image">
@@ -339,7 +349,8 @@
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image" target="_blank">
+                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
+                        target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
                             <img class="lazyload" src="assets/images/placeholder.png"
                                 data-src="assets/images/gallery/gallery-15.jpg" alt="Image">
@@ -349,7 +360,8 @@
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image" target="_blank">
+                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
+                        target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
                             <img class="lazyload" src="assets/images/placeholder.png"
                                 data-src="assets/images/gallery/gallery-16.jpg" alt="Image">
@@ -359,7 +371,8 @@
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image" target="_blank">
+                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
+                        target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
                             <img class="lazyload" src="assets/images/placeholder.png"
                                 data-src="assets/images/gallery/gallery-15.jpg" alt="Image">
@@ -376,7 +389,7 @@
 
 
 <!-- Contact-area start -->
-<div class="contact-area pt-100 pb-60">
+<div class="contact-area pt-100 pb-60" id="contacto">
     <div class="container">
         <!-- Spacer -->
         <div class="pb-70"></div>
@@ -429,7 +442,7 @@
                 <div class="map h-100 overflow-hidden radius-md">
                     <iframe
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1030.1452555712017!2d-109.70527014134554!3d23.059714549174018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af50823143b4c1%3A0xe639b5c49cc36f6d!2sDe%20Pasada%20Cafe!5e0!3m2!1ses-419!2smx!4v1693940212039!5m2!1ses-419!2smx"
-                         allowfullscreen="" loading="lazy" width="100%" height="100%"
+                        allowfullscreen="" loading="lazy" width="100%" height="100%"
                         referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>

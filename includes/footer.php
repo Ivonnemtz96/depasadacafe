@@ -5,8 +5,8 @@
         <div class="copy-right-area ptb-30">
             <div class="copy-right-content">
                 <span>
-                    Copyright <i class="fal fa-copyright"></i><span id="footerDate"></span> <a href="index.html"
-                        target="_self" title="Treats" class="color-primary">Treats</a>. All Rights Reserved
+                    De Pasada Cafe <i class="fal fa-copyright"></i><span id="footerDate"></span>. Desarrollado por <a href="https://www.bananagroup.mx/"
+                        target="_blank" ><strong>Banana Group Marketing</strong></a>. 
                 </span>
             </div>
         </div>
