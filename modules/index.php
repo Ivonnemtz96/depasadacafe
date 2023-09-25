@@ -148,13 +148,16 @@
                 <div class="tab-content" data-aos="fade-up">
                     <div class="tab-pane slide show active" id="tab1">
                         <div class="row justify-content-center">
-                            <div class="col-sm-12 col-md-4 col-lg-7 item">
-                                <img src="/assets/images/menu.png" alt="">
+                            <div class="col-sm-12 col-md-6 col-lg-6 item" data-aos="fade-up">
+                                <img src="/assets/images/menu.jpg" alt="">
+                            </div>
+                            <div class="col-sm-12 col-md-6 col-lg-6 item" data-aos="fade-up">
+                                <img src="/assets/images/menu2.jpg" alt="">
                             </div>
                         </div>
                     </div>
                 </div>
-              
+
             </div>
         </div>
     </div>
@@ -291,7 +294,7 @@
 
 <!-- Gallery-area start -->
 <div id="galeria" style="margin-bottom:6rem;"></div>
-<div class="container" >
+<div class="container">
     <div class="section-title row mb-50 justify-content-between align-items-center" data-aos="fade-up">
         <div class="col-lg-12 text-center">
             <h2 class="title">
@@ -305,80 +308,198 @@
         <div class="swiper gallery-slider">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
-                        target="_blank">
+                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item"
+                        title="Image" target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
                             <img class="lazyload" src="/assets/images/placeholder.png"
-                                data-src="/assets/images/gallery/gallery-11.jpg" alt="Image">
+                                data-src="/assets/images/gallery/gallery-25.jpg" alt="Image">
                         </div>
-                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="/assets/images/placeholder.png"
-                                data-src="/assets/images/fb.png" alt="Image"></div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up"
+                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png"
+                                alt="De Pasada Café"></div>
+                    </a>
+                </div>
+
+                <div class="swiper-slide">
+                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item"
+                        title="Image" target="_blank">
+                        <div class="lazy-container ratio ratio-1-2">
+                            <img class="lazyload" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/gallery/gallery-26.jpg" alt="Image">
+                        </div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up"
+                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png"
+                                alt="De Pasada Café"></div>
+                    </a>
+                </div>
+
+                <div class="swiper-slide">
+                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item"
+                        title="Image" target="_blank">
+                        <div class="lazy-container ratio ratio-1-2">
+                            <img class="lazyload" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/gallery/gallery-27.jpg" alt="Image">
+                        </div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up"
+                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png"
+                                alt="De Pasada Café"></div>
+                    </a>
+                </div>
+
+                <div class="swiper-slide">
+                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item"
+                        title="Image" target="_blank">
+                        <div class="lazy-container ratio ratio-1-2">
+                            <img class="lazyload" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/gallery/gallery-28.jpg" alt="Image">
+                        </div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up"
+                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png"
+                                alt="De Pasada Café"></div>
+                    </a>
+                </div>
+
+                <div class="swiper-slide">
+                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item"
+                        title="Image" target="_blank">
+                        <div class="lazy-container ratio ratio-1-2">
+                            <img class="lazyload" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/gallery/gallery-29.jpg" alt="Image">
+                        </div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up"
+                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png"
+                                alt="De Pasada Café"></div>
+                    </a>
+                </div>
+
+                <div class="swiper-slide">
+                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item"
+                        title="Image" target="_blank">
+                        <div class="lazy-container ratio ratio-1-2">
+                            <img class="lazyload" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/gallery/gallery-30.jpg" alt="Image">
+                        </div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up"
+                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png"
+                                alt="De Pasada Café"></div>
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
+                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item" title="Image"
                         target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
                             <img class="lazyload" src="/assets/images/placeholder.png"
-                                data-src="/assets/images/gallery/gallery-12.jpg" alt="Image">
+                                data-src="/assets/images/gallery/gallery-21.jpg" alt="Image">
                         </div>
-                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="/assets/images/placeholder.png"
-                                data-src="/assets/images/fb.png" alt="Image"></div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up"
+                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png" alt="De Pasada Café"></div>
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
+                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item"
+                        title="Image" target="_blank">
+                        <div class="lazy-container ratio ratio-1-2">
+                            <img class="lazyload" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/gallery/gallery-24.jpg" alt="Image">
+                        </div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up"
+                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png"
+                                alt="De Pasada Café"></div>
+                    </a>
+                </div>
+                <div class="swiper-slide">
+                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item" title="Image"
                         target="_blank">
+                        <div class="lazy-container ratio ratio-1-2">
+                            <img class="lazyload" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/gallery/gallery-31.jpg" alt="Image">
+                        </div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up"
+                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png" alt="De Pasada Café"></div>
+                    </a>
+                </div>
+                <div class="swiper-slide">
+                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item"
+                        title="Image" target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
                             <img class="lazyload" src="/assets/images/placeholder.png"
                                 data-src="/assets/images/gallery/gallery-13.jpg" alt="Image">
                         </div>
-                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="/assets/images/placeholder.png"
-                                data-src="/assets/images/fb.png" alt="Image"></div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up"
+                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png"
+                                alt="De Pasada Café"></div>
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
-                        target="_blank">
+                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item"
+                        title="Image" target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
                             <img class="lazyload" src="/assets/images/placeholder.png"
                                 data-src="/assets/images/gallery/gallery-17.jpg" alt="Image">
                         </div>
-                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="/assets/images/placeholder.png"
-                                data-src="/assets/images/fb.png" alt="Image"></div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up"
+                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png"
+                                alt="De Pasada Café"></div>
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
-                        target="_blank">
+                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item"
+                        title="Image" target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
                             <img class="lazyload" src="/assets/images/placeholder.png"
-                                data-src="/assets/images/gallery/gallery-15.jpg" alt="Image">
+                                data-src="/assets/images/gallery/gallery-22.jpg" alt="Image">
                         </div>
-                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="/assets/images/placeholder.png"
-                                data-src="/assets/images/fb.png" alt="Image"></div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up"
+                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png"
+                                alt="De Pasada Café"></div>
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
-                        target="_blank">
+                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item"
+                        title="Image" target="_blank">
+                        <div class="lazy-container ratio ratio-1-2">
+                            <img class="lazyload" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/gallery/gallery-20.jpg" alt="Image">
+                        </div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up"
+                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png"
+                                alt="De Pasada Café"></div>
+                    </a>
+                </div>
+                <div class="swiper-slide">
+                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item"
+                        title="Image" target="_blank">
+                        <div class="lazy-container ratio ratio-1-2">
+                            <img class="lazyload" src="/assets/images/placeholder.png"
+                                data-src="/assets/images/gallery/gallery-23.jpg" alt="Image">
+                        </div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up"
+                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png"
+                                alt="De Pasada Café"></div>
+                    </a>
+                </div>
+                <div class="swiper-slide">
+                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item"
+                        title="Image" target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
                             <img class="lazyload" src="/assets/images/placeholder.png"
                                 data-src="/assets/images/gallery/gallery-16.jpg" alt="Image">
                         </div>
-                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="/assets/images/placeholder.png"
-                                data-src="/assets/images/fb.png" alt="Image"></div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up"
+                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png"
+                                alt="De Pasada Café"></div>
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://www.facebook.com/DePasadaCafe?locale=es_LA" class="slider-item" title="Image"
-                        target="_blank">
+                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item"
+                        title="Image" target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
                             <img class="lazyload" src="/assets/images/placeholder.png"
                                 data-src="/assets/images/gallery/gallery-15.jpg" alt="Image">
                         </div>
-                        <div class="icon rounded-pill"><img class="lazyload blur-up" src="/assets/images/placeholder.png"
-                                data-src="/assets/images/fb.png" alt="Image"></div>
+                        <div class="icon rounded-pill"><img class="lazyload blur-up"
+                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png"
+                                alt="De Pasada Café"></div>
                     </a>
                 </div>
             </div>

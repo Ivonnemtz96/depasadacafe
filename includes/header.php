@@ -12,7 +12,7 @@
         <div class="container">
             <!-- Mobile Logo -->
             <div class="logo">
-                <a href="index.html" target="_self" title="Treats">
+                <a href="/" target="_self" title="Treats">
                     <img class="lazyload" src="/assets/images/placeholder.png" style="width: 15rem;" data-src="/assets/images/logo.png"
                         alt="Treats logo">
                 </a>
@@ -54,7 +54,7 @@
             <div class="container">
                 <nav class="navbar navbar-expand-lg">
                     <!-- Logo -->
-                    <a class="navbar-brand" href="index.html" target="_self" title="Treats">
+                    <a class="navbar-brand" href="/" target="_self" title="Treats">
                         <img class="lazyload" src="/assets/images/placeholder.png"
                             data-src="/assets/images/logo.png" alt="Treats logo" style="width: 15rem;">
                     </a>
