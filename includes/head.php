@@ -33,4 +33,7 @@
     <link rel="stylesheet" href="/assets/css/style.css">
     <!-- Responsive CSS -->
     <link rel="stylesheet" href="/assets/css/responsive.css">
+    <!-- captcha -->
+ <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 </head>

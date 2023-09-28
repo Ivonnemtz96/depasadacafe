@@ -3,7 +3,11 @@
 <?php
     include('includes/head.php');
 ?>
-
+<?
+if (isset($_GET)) {
+  include("php/msg.php");
+}
+?>
 <body class="theme-color-3">
     <?php
         include('includes/preloader.php');

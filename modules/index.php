@@ -385,14 +385,15 @@
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item" title="Image"
-                        target="_blank">
+                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item"
+                        title="Image" target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
                             <img class="lazyload" src="/assets/images/placeholder.png"
                                 data-src="/assets/images/gallery/gallery-21.jpg" alt="Image">
                         </div>
                         <div class="icon rounded-pill"><img class="lazyload blur-up"
-                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png" alt="De Pasada Café"></div>
+                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png"
+                                alt="De Pasada Café"></div>
                     </a>
                 </div>
                 <div class="swiper-slide">
@@ -408,14 +409,15 @@
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item" title="Image"
-                        target="_blank">
+                    <a href="https://www.instagram.com/depasada_cafe/?igshid=MzRlODBiNWFlZA%3D%3D" class="slider-item"
+                        title="Image" target="_blank">
                         <div class="lazy-container ratio ratio-1-2">
                             <img class="lazyload" src="/assets/images/placeholder.png"
                                 data-src="/assets/images/gallery/gallery-31.jpg" alt="Image">
                         </div>
                         <div class="icon rounded-pill"><img class="lazyload blur-up"
-                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png" alt="De Pasada Café"></div>
+                                src="/assets/images/placeholder.png" data-src="/assets/images/instagram.png"
+                                alt="De Pasada Café"></div>
                     </a>
                 </div>
                 <div class="swiper-slide">
@@ -522,38 +524,44 @@
                 </h2>
             </div>
             <div class="col-lg-6 mb-40" data-aos="fade-up">
-                <form id="contactForm">
+                <form id="contactForm" action="/php/contact.php" method="POST">
                     <div class="row">
                         <div class="col-md-6">
                             <div class="form-group mb-20">
-                                <input type="text" name="name" class="form-control" id="name" required=""
+                                <input type="text" name="nombre" class="form-control" id="nombre" required=""
                                     placeholder="Nombre*">
                             </div>
                         </div>
 
                         <div class="col-md-6">
                             <div class="form-group mb-20">
-                                <input type="email" name="email" class="form-control" id="email" required=""
+                                <input type="email" name="mail" class="form-control" id="mail" required=""
                                     placeholder="Correo*">
                             </div>
                         </div>
 
                         <div class="col-12">
                             <div class="form-group mb-20">
-                                <input type="text" name="subject" class="form-control" id="subject" required=""
+                                <input type="text" name="asunto" class="form-control" id="asunto" required=""
                                     placeholder="Asunto">
                             </div>
                         </div>
 
                         <div class="col-12">
                             <div class="form-group mb-20">
-                                <textarea name="message" id="message" class="form-control" cols="30" rows="8"
+                                <textarea name="msj" id="msj" class="form-control" cols="30" rows="8"
                                     placeholder="Escribe tu mensaje..."></textarea>
+                            </div>
+                        </div>
+                        <div class="row" style="margin-bottom: 3rem; margin-top:3rem;">
+                            <div class="col-12 col-md-5">
+                                <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS"
+                                    required></div>
                             </div>
                         </div>
 
                         <div class="col-md-12">
-                            <button class="btn btn-lg btn-primary rounded-pill" type="button"
+                            <button class="btn btn-lg btn-primary rounded-pill" type="submit" id="submit"
                                 aria-label="Send Message">Enviar</button>
                         </div>
                     </div>
