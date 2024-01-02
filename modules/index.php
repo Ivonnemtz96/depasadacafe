@@ -148,11 +148,14 @@
                 <div class="tab-content" data-aos="fade-up">
                     <div class="tab-pane slide show active" id="tab1">
                         <div class="row justify-content-center">
-                            <div class="col-sm-12 col-md-6 col-lg-6 item" data-aos="fade-up">
-                                <img src="/assets/images/menu.jpg" alt="">
+                            <div class="col-sm-12 col-md-4 col-lg-4 item" data-aos="fade-up">
+                                <img src="/assets/images/01.jpg" alt="">
                             </div>
-                            <div class="col-sm-12 col-md-6 col-lg-6 item" data-aos="fade-up">
-                                <img src="/assets/images/menu2.jpg" alt="">
+                            <div class="col-sm-12 col-md-4 col-lg-4 item" data-aos="fade-up">
+                                <img src="/assets/images/02.jpg" alt="">
+                            </div>
+                            <div class="col-sm-12 col-md-4 col-lg-4 item" data-aos="fade-up">
+                                <img src="/assets/images/3.jpg" alt="">
                             </div>
                         </div>
                     </div>
